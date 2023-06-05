@@ -2,7 +2,7 @@
 ## Try the header2
 Try the markdown language
 
-![Image of Baseball](http://img1.pixiaojiang.com/20190110-015.jpg)
+![Image of Baseball](https://octodex.github.com/images/yaktocat.png)
 
 ```sas
 data test;
