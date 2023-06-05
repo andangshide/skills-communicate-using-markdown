@@ -7,6 +7,7 @@ Try the markdown language
 ```sas
 data test;
 set test;
+if as=8 then delete;
 run;
 ```
 
